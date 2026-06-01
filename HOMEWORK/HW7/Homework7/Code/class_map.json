@@ -1,0 +1,62 @@
+{
+    "cat": [
+        "tabby",
+        "tiger_cat",
+        "persian_cat",
+        "siamese_cat",
+        "egyptian_cat",
+        "lynx",
+        "leopard",
+        "snow_leopard",
+        "cougar"
+    ],
+
+    "dog": [
+        "Labrador_retriever",
+        "German_shepherd",
+        "Siberian_husky",
+        "golden_retriever",
+        "Chihuahua",
+        "Pomeranian",
+        "pug",
+        "dalmatian",
+        "boxer",
+        "Rottweiler",
+        "doberman",
+        "toy_poodle",
+        "standard_poodle",
+        "great_dane",
+        "malamute",
+        "samoyed",
+        "basenji",
+        "bloodhound",
+        "beagle",
+        "cocker_spaniel",
+        "bull_mastiff"
+    ],
+
+    "horse": [
+        "Arabian_horse",
+        "Appaloosa",
+        "sorrel",
+        "zebra",
+        "ox",
+        "mule"
+    ],
+
+    "butterfly": [
+        "monarch",
+        "cabbage_butterfly",
+        "sulphur_butterfly",
+        "lycaenid"
+    ],
+
+    "spider": [
+        "black_widow",
+        "barn_spider",
+        "garden_spider",
+        "wolf_spider",
+        "tarantula",
+        "orb_weaver"
+    ]
+}
